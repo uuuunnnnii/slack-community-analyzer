@@ -1,0 +1,10 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.db
+.env
+.idea/
+.vscode/
+venv/
+test/
+slack_bot.db

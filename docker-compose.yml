@@ -1,0 +1,8 @@
+services:
+  slack-bot:
+    build: .
+    container_name: slack-monitoring-bot
+    env_file:
+      - .env
+    volumes:
+      - ./slack_bot.db:/app/slack_bot.db
