@@ -7,7 +7,7 @@ Slackコミュニティの健全化と活性化を目的とした、AIによる�
 このシステムは、Slackの公開チャンネルの投稿を毎日自動で収集し、Google Gemini APIを利用して内容を分析します。
 分析結果に基づき、不適切な投稿の管理者への通知や、コミュニティ貢献度の高いユーザーのランキング発表を自動で行います。
 
-**採択プロジェクト:** [PJT-07: AIによるコミュニティ活性化支援]
+**採択プロジェクト:** [PJT-09: Slackの発言を監視するBot]
 
 ## 機能一覧
 
@@ -77,7 +77,7 @@ Slackコミュニティの健全化と活性化を目的とした、AIによる�
 1.  **リポジトリをクローン**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)[uuuunnnnii]/slack-monitoring-bot.git
+    git clone [https://github.com/](https://github.com/)uuuunnnnii/slack-monitoring-bot.git
     cd slack-community-analyzer
     ```
 
